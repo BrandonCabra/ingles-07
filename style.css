@@ -1,0 +1,31 @@
+ body {
+        background: radial-gradient(circle, #070707fa, #7bcefe);
+        color: white;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+
+h1 {
+        color: #070707fa;
+        background-color: #f7f7f7cb;
+        padding: 10px;
+        margin: 5px;
+        border-radius: 5px;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+      }
+h2 {
+        color: #070707fa;
+        background-color: #b49b9bcb;
+        padding: 8px;
+        margin: 0px;
+        border-radius: 200px;
+        box-shadow: 0px 0px 14px rgba(8, 8, 8, 0.2);
+
+    }
+p {
+        color: #070707fa;
+        
+        
+      }
